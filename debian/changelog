@@ -1,3 +1,10 @@
+shadowvpn (0.2.1-1) unstable; urgency=low
+
+  * Update dependences
+  * Use default random generator
+
+ -- pexcn <pexcn97@gmail.com>  Fri, 06 Apr 2018 16:08:24 +0800
+
 shadowvpn (0.2.0-1) unstable; urgency=low
 
   * Add NAT support on server side
